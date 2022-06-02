@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    align-items: center;
+    width: 500px;
+    justify-content: space-between;
+   
+}
+
+.header > a {
+    display: flex;
+    text-decoration: none;
+    color: green;
+    
+}
